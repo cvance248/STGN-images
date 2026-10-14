@@ -1,0 +1,19 @@
+{
+  "_help": "Edit this file on github.com to steer the weekly Instagram run. paused: true stops it. mode: 'schedule' posts automatically, 'draft' leaves every post as a draft for you to approve in Metricool. weekdays: 0=Monday ... 6=Sunday. monthly_cap: the Metricool plan limit. skip_if_ahead_days: the run does nothing if posts are already logged this many days ahead. skip_dates: dates that get no post (YYYY-MM-DD).",
+  "paused": false,
+  "mode": "schedule",
+  "posts_per_batch": 5,
+  "post_time": "10:00",
+  "timezone": "America/New_York",
+  "weekdays": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "monthly_cap": 20,
+  "min_lead_days": 4,
+  "skip_dates": [],
+  "skip_if_ahead_days": 8
+}

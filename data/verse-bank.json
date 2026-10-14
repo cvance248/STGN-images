@@ -1,0 +1,1025 @@
+{
+ "about": "Verse bank for the weekly Instagram run. KJV references only; the text always comes from tools/get_verses.py. Add refs freely; a verse already in data/posts-log.json is never reused.",
+ "verses": [
+  {
+   "ref": "John 3:16",
+   "tone": "gospel",
+   "words": 25
+  },
+  {
+   "ref": "Romans 6:23",
+   "tone": "gospel",
+   "words": 20
+  },
+  {
+   "ref": "Romans 10:9",
+   "tone": "gospel",
+   "words": 29
+  },
+  {
+   "ref": "Romans 3:23",
+   "tone": "gospel",
+   "words": 12
+  },
+  {
+   "ref": "Ephesians 2:8-9",
+   "tone": "gospel",
+   "words": 27
+  },
+  {
+   "ref": "Titus 3:5",
+   "tone": "gospel",
+   "words": 28
+  },
+  {
+   "ref": "2 Corinthians 5:21",
+   "tone": "gospel",
+   "words": 25
+  },
+  {
+   "ref": "John 14:6",
+   "tone": "gospel",
+   "words": 22
+  },
+  {
+   "ref": "Acts 4:12",
+   "tone": "gospel",
+   "words": 23
+  },
+  {
+   "ref": "1 Timothy 1:15",
+   "tone": "gospel",
+   "words": 25
+  },
+  {
+   "ref": "John 5:24",
+   "tone": "gospel",
+   "words": 34
+  },
+  {
+   "ref": "Ephesians 1:7",
+   "tone": "gospel",
+   "words": 19
+  },
+  {
+   "ref": "Isaiah 53:5",
+   "tone": "gospel",
+   "words": 28
+  },
+  {
+   "ref": "Romans 5:1",
+   "tone": "gospel",
+   "words": 15
+  },
+  {
+   "ref": "Romans 8:1",
+   "tone": "gospel",
+   "words": 23
+  },
+  {
+   "ref": "1 Timothy 2:5",
+   "tone": "gospel",
+   "words": 16
+  },
+  {
+   "ref": "Revelation 3:20",
+   "tone": "gospel",
+   "words": 33
+  },
+  {
+   "ref": "John 3:3",
+   "tone": "gospel",
+   "words": 25
+  },
+  {
+   "ref": "Isaiah 1:18",
+   "tone": "gospel",
+   "words": 34
+  },
+  {
+   "ref": "Romans 5:6",
+   "tone": "gospel",
+   "words": 15
+  },
+  {
+   "ref": "1 Peter 3:18",
+   "tone": "gospel",
+   "words": 32
+  },
+  {
+   "ref": "Mark 16:15",
+   "tone": "witness",
+   "words": 18
+  },
+  {
+   "ref": "Acts 1:8",
+   "tone": "witness",
+   "words": 39
+  },
+  {
+   "ref": "Romans 10:14",
+   "tone": "witness",
+   "words": 34
+  },
+  {
+   "ref": "Romans 10:13",
+   "tone": "witness",
+   "words": 13
+  },
+  {
+   "ref": "Romans 10:15",
+   "tone": "witness",
+   "words": 33
+  },
+  {
+   "ref": "Romans 1:16",
+   "tone": "witness",
+   "words": 33
+  },
+  {
+   "ref": "Colossians 4:6",
+   "tone": "witness",
+   "words": 21
+  },
+  {
+   "ref": "Matthew 5:16",
+   "tone": "witness",
+   "words": 22
+  },
+  {
+   "ref": "Proverbs 11:30",
+   "tone": "witness",
+   "words": 17
+  },
+  {
+   "ref": "2 Timothy 4:2",
+   "tone": "witness",
+   "words": 18
+  },
+  {
+   "ref": "Psalm 96:3",
+   "tone": "witness",
+   "words": 11
+  },
+  {
+   "ref": "Daniel 12:3",
+   "tone": "witness",
+   "words": 27
+  },
+  {
+   "ref": "2 Corinthians 5:20",
+   "tone": "witness",
+   "words": 26
+  },
+  {
+   "ref": "Isaiah 6:8",
+   "tone": "witness",
+   "words": 27
+  },
+  {
+   "ref": "1 Peter 2:9",
+   "tone": "witness",
+   "words": 35
+  },
+  {
+   "ref": "Matthew 5:14",
+   "tone": "witness",
+   "words": 18
+  },
+  {
+   "ref": "1 Corinthians 9:16",
+   "tone": "witness",
+   "words": 29
+  },
+  {
+   "ref": "1 John 1:9",
+   "tone": "repent",
+   "words": 22
+  },
+  {
+   "ref": "Mark 1:15",
+   "tone": "repent",
+   "words": 20
+  },
+  {
+   "ref": "Acts 3:19",
+   "tone": "repent",
+   "words": 26
+  },
+  {
+   "ref": "Luke 13:3",
+   "tone": "repent",
+   "words": 13
+  },
+  {
+   "ref": "Psalm 51:10",
+   "tone": "repent",
+   "words": 15
+  },
+  {
+   "ref": "Proverbs 28:13",
+   "tone": "repent",
+   "words": 17
+  },
+  {
+   "ref": "2 Chronicles 7:14",
+   "tone": "repent",
+   "words": 40
+  },
+  {
+   "ref": "Psalm 139:23-24",
+   "tone": "repent",
+   "words": 31
+  },
+  {
+   "ref": "2 Corinthians 13:5",
+   "tone": "repent",
+   "words": 29
+  },
+  {
+   "ref": "John 14:15",
+   "tone": "obey",
+   "words": 7
+  },
+  {
+   "ref": "Luke 6:46",
+   "tone": "obey",
+   "words": 15
+  },
+  {
+   "ref": "Luke 11:28",
+   "tone": "obey",
+   "words": 17
+  },
+  {
+   "ref": "Luke 9:23",
+   "tone": "obey",
+   "words": 26
+  },
+  {
+   "ref": "Matthew 6:33",
+   "tone": "obey",
+   "words": 20
+  },
+  {
+   "ref": "Micah 6:8",
+   "tone": "obey",
+   "words": 32
+  },
+  {
+   "ref": "1 John 2:3",
+   "tone": "obey",
+   "words": 14
+  },
+  {
+   "ref": "James 4:17",
+   "tone": "obey",
+   "words": 17
+  },
+  {
+   "ref": "1 John 3:18",
+   "tone": "obey",
+   "words": 18
+  },
+  {
+   "ref": "Matthew 7:21",
+   "tone": "obey",
+   "words": 29
+  },
+  {
+   "ref": "Deuteronomy 6:5",
+   "tone": "obey",
+   "words": 22
+  },
+  {
+   "ref": "Luke 6:31",
+   "tone": "obey",
+   "words": 16
+  },
+  {
+   "ref": "John 13:35",
+   "tone": "obey",
+   "words": 18
+  },
+  {
+   "ref": "Philippians 2:14",
+   "tone": "obey",
+   "words": 7
+  },
+  {
+   "ref": "Ecclesiastes 12:13",
+   "tone": "obey",
+   "words": 23
+  },
+  {
+   "ref": "Colossians 3:23",
+   "tone": "obey",
+   "words": 15
+  },
+  {
+   "ref": "James 1:19",
+   "tone": "obey",
+   "words": 17
+  },
+  {
+   "ref": "Romans 12:1",
+   "tone": "obey",
+   "words": 27
+  },
+  {
+   "ref": "Proverbs 3:5-6",
+   "tone": "trust",
+   "words": 27
+  },
+  {
+   "ref": "Psalm 46:1",
+   "tone": "trust",
+   "words": 12
+  },
+  {
+   "ref": "Psalm 56:3",
+   "tone": "trust",
+   "words": 10
+  },
+  {
+   "ref": "Psalm 23:4",
+   "tone": "trust",
+   "words": 30
+  },
+  {
+   "ref": "Psalm 27:1",
+   "tone": "trust",
+   "words": 26
+  },
+  {
+   "ref": "Psalm 121:1-2",
+   "tone": "trust",
+   "words": 25
+  },
+  {
+   "ref": "Isaiah 26:3",
+   "tone": "trust",
+   "words": 18
+  },
+  {
+   "ref": "Psalm 18:2",
+   "tone": "trust",
+   "words": 32
+  },
+  {
+   "ref": "Nahum 1:7",
+   "tone": "trust",
+   "words": 20
+  },
+  {
+   "ref": "Psalm 37:4-5",
+   "tone": "trust",
+   "words": 33
+  },
+  {
+   "ref": "Psalm 91:1-2",
+   "tone": "trust",
+   "words": 39
+  },
+  {
+   "ref": "Psalm 62:5-6",
+   "tone": "trust",
+   "words": 30
+  },
+  {
+   "ref": "Exodus 14:14",
+   "tone": "trust",
+   "words": 12
+  },
+  {
+   "ref": "Psalm 46:10",
+   "tone": "trust",
+   "words": 22
+  },
+  {
+   "ref": "Proverbs 3:7",
+   "tone": "trust",
+   "words": 14
+  },
+  {
+   "ref": "Isaiah 30:15",
+   "tone": "trust",
+   "words": 32
+  },
+  {
+   "ref": "Psalm 73:26",
+   "tone": "trust",
+   "words": 19
+  },
+  {
+   "ref": "Psalm 16:11",
+   "tone": "trust",
+   "words": 24
+  },
+  {
+   "ref": "Philippians 4:6",
+   "tone": "comfort",
+   "words": 22
+  },
+  {
+   "ref": "Matthew 11:28",
+   "tone": "comfort",
+   "words": 17
+  },
+  {
+   "ref": "John 14:27",
+   "tone": "comfort",
+   "words": 31
+  },
+  {
+   "ref": "1 Peter 5:7",
+   "tone": "comfort",
+   "words": 11
+  },
+  {
+   "ref": "Romans 8:28",
+   "tone": "comfort",
+   "words": 25
+  },
+  {
+   "ref": "Psalm 34:18",
+   "tone": "comfort",
+   "words": 21
+  },
+  {
+   "ref": "Lamentations 3:22-23",
+   "tone": "comfort",
+   "words": 25
+  },
+  {
+   "ref": "Psalm 55:22",
+   "tone": "comfort",
+   "words": 20
+  },
+  {
+   "ref": "Matthew 6:34",
+   "tone": "comfort",
+   "words": 26
+  },
+  {
+   "ref": "Revelation 21:4",
+   "tone": "comfort",
+   "words": 35
+  },
+  {
+   "ref": "Matthew 11:29-30",
+   "tone": "comfort",
+   "words": 35
+  },
+  {
+   "ref": "Zephaniah 3:17",
+   "tone": "comfort",
+   "words": 34
+  },
+  {
+   "ref": "2 Corinthians 12:9",
+   "tone": "comfort",
+   "words": 38
+  },
+  {
+   "ref": "Philippians 1:6",
+   "tone": "comfort",
+   "words": 25
+  },
+  {
+   "ref": "Joshua 1:9",
+   "tone": "courage",
+   "words": 30
+  },
+  {
+   "ref": "2 Timothy 1:7",
+   "tone": "courage",
+   "words": 21
+  },
+  {
+   "ref": "Deuteronomy 31:6",
+   "tone": "courage",
+   "words": 35
+  },
+  {
+   "ref": "Hebrews 13:5",
+   "tone": "courage",
+   "words": 27
+  },
+  {
+   "ref": "Isaiah 40:31",
+   "tone": "courage",
+   "words": 33
+  },
+  {
+   "ref": "1 John 4:4",
+   "tone": "courage",
+   "words": 25
+  },
+  {
+   "ref": "Philippians 4:13",
+   "tone": "courage",
+   "words": 10
+  },
+  {
+   "ref": "Psalm 118:6",
+   "tone": "courage",
+   "words": 16
+  },
+  {
+   "ref": "Matthew 7:7",
+   "tone": "prayer",
+   "words": 20
+  },
+  {
+   "ref": "Jeremiah 33:3",
+   "tone": "prayer",
+   "words": 19
+  },
+  {
+   "ref": "1 Thessalonians 5:16-18",
+   "tone": "prayer",
+   "words": 22
+  },
+  {
+   "ref": "James 5:16",
+   "tone": "prayer",
+   "words": 26
+  },
+  {
+   "ref": "Luke 18:1",
+   "tone": "prayer",
+   "words": 20
+  },
+  {
+   "ref": "Psalm 145:18",
+   "tone": "prayer",
+   "words": 19
+  },
+  {
+   "ref": "Hebrews 4:16",
+   "tone": "prayer",
+   "words": 24
+  },
+  {
+   "ref": "1 John 5:14",
+   "tone": "prayer",
+   "words": 23
+  },
+  {
+   "ref": "Matthew 6:6",
+   "tone": "prayer",
+   "words": 35
+  },
+  {
+   "ref": "Colossians 4:2",
+   "tone": "prayer",
+   "words": 10
+  },
+  {
+   "ref": "James 1:5",
+   "tone": "prayer",
+   "words": 26
+  },
+  {
+   "ref": "2 Timothy 3:16",
+   "tone": "word",
+   "words": 21
+  },
+  {
+   "ref": "Psalm 119:11",
+   "tone": "word",
+   "words": 15
+  },
+  {
+   "ref": "Isaiah 40:8",
+   "tone": "word",
+   "words": 16
+  },
+  {
+   "ref": "Matthew 4:4",
+   "tone": "word",
+   "words": 27
+  },
+  {
+   "ref": "Romans 10:17",
+   "tone": "word",
+   "words": 13
+  },
+  {
+   "ref": "John 17:17",
+   "tone": "word",
+   "words": 9
+  },
+  {
+   "ref": "Psalm 19:7",
+   "tone": "word",
+   "words": 21
+  },
+  {
+   "ref": "Psalm 1:2",
+   "tone": "word",
+   "words": 20
+  },
+  {
+   "ref": "John 8:32",
+   "tone": "word",
+   "words": 13
+  },
+  {
+   "ref": "James 4:6",
+   "tone": "humble",
+   "words": 18
+  },
+  {
+   "ref": "1 Peter 5:6",
+   "tone": "humble",
+   "words": 17
+  },
+  {
+   "ref": "Philippians 2:3",
+   "tone": "humble",
+   "words": 20
+  },
+  {
+   "ref": "Proverbs 16:18",
+   "tone": "humble",
+   "words": 11
+  },
+  {
+   "ref": "Proverbs 27:2",
+   "tone": "humble",
+   "words": 17
+  },
+  {
+   "ref": "1 Corinthians 10:12",
+   "tone": "humble",
+   "words": 12
+  },
+  {
+   "ref": "Proverbs 14:12",
+   "tone": "humble",
+   "words": 19
+  },
+  {
+   "ref": "Ephesians 4:32",
+   "tone": "love",
+   "words": 20
+  },
+  {
+   "ref": "Colossians 3:13",
+   "tone": "love",
+   "words": 24
+  },
+  {
+   "ref": "John 15:13",
+   "tone": "love",
+   "words": 17
+  },
+  {
+   "ref": "1 John 4:19",
+   "tone": "love",
+   "words": 8
+  },
+  {
+   "ref": "1 John 4:10",
+   "tone": "love",
+   "words": 24
+  },
+  {
+   "ref": "John 13:34",
+   "tone": "love",
+   "words": 23
+  },
+  {
+   "ref": "Matthew 6:14-15",
+   "tone": "love",
+   "words": 29
+  },
+  {
+   "ref": "Romans 12:21",
+   "tone": "love",
+   "words": 10
+  },
+  {
+   "ref": "Romans 12:18",
+   "tone": "love",
+   "words": 15
+  },
+  {
+   "ref": "Proverbs 15:1",
+   "tone": "love",
+   "words": 12
+  },
+  {
+   "ref": "Proverbs 27:17",
+   "tone": "love",
+   "words": 12
+  },
+  {
+   "ref": "James 1:27",
+   "tone": "love",
+   "words": 28
+  },
+  {
+   "ref": "Matthew 25:40",
+   "tone": "love",
+   "words": 35
+  },
+  {
+   "ref": "Galatians 6:9",
+   "tone": "persevere",
+   "words": 20
+  },
+  {
+   "ref": "Hebrews 12:2",
+   "tone": "persevere",
+   "words": 38
+  },
+  {
+   "ref": "1 Corinthians 15:58",
+   "tone": "persevere",
+   "words": 30
+  },
+  {
+   "ref": "Romans 5:3-4",
+   "tone": "persevere",
+   "words": 21
+  },
+  {
+   "ref": "James 1:2-3",
+   "tone": "persevere",
+   "words": 22
+  },
+  {
+   "ref": "2 Timothy 4:7",
+   "tone": "persevere",
+   "words": 16
+  },
+  {
+   "ref": "Hebrews 10:23",
+   "tone": "persevere",
+   "words": 17
+  },
+  {
+   "ref": "Hebrews 10:25",
+   "tone": "persevere",
+   "words": 28
+  },
+  {
+   "ref": "Philippians 3:14",
+   "tone": "persevere",
+   "words": 17
+  },
+  {
+   "ref": "Hebrews 11:6",
+   "tone": "persevere",
+   "words": 32
+  },
+  {
+   "ref": "Galatians 6:7",
+   "tone": "persevere",
+   "words": 17
+  },
+  {
+   "ref": "Romans 15:13",
+   "tone": "hope",
+   "words": 27
+  },
+  {
+   "ref": "Romans 12:12",
+   "tone": "hope",
+   "words": 10
+  },
+  {
+   "ref": "Hebrews 11:1",
+   "tone": "hope",
+   "words": 15
+  },
+  {
+   "ref": "Psalm 42:11",
+   "tone": "hope",
+   "words": 35
+  },
+  {
+   "ref": "John 11:25",
+   "tone": "hope",
+   "words": 24
+  },
+  {
+   "ref": "Hebrews 13:8",
+   "tone": "hope",
+   "words": 11
+  },
+  {
+   "ref": "John 10:10",
+   "tone": "hope",
+   "words": 30
+  },
+  {
+   "ref": "2 Corinthians 5:17",
+   "tone": "hope",
+   "words": 23
+  },
+  {
+   "ref": "John 1:12",
+   "tone": "hope",
+   "words": 25
+  },
+  {
+   "ref": "Psalm 118:24",
+   "tone": "thanks",
+   "words": 17
+  },
+  {
+   "ref": "Psalm 107:1",
+   "tone": "thanks",
+   "words": 16
+  },
+  {
+   "ref": "Psalm 103:2",
+   "tone": "thanks",
+   "words": 12
+  },
+  {
+   "ref": "Psalm 100:4",
+   "tone": "thanks",
+   "words": 20
+  },
+  {
+   "ref": "Colossians 3:17",
+   "tone": "thanks",
+   "words": 26
+  },
+  {
+   "ref": "Psalm 19:1",
+   "tone": "thanks",
+   "words": 13
+  },
+  {
+   "ref": "Psalm 8:3-4",
+   "tone": "thanks",
+   "words": 37
+  },
+  {
+   "ref": "Philippians 4:4",
+   "tone": "thanks",
+   "words": 10
+  },
+  {
+   "ref": "Ephesians 4:29",
+   "tone": "warn",
+   "words": 27
+  },
+  {
+   "ref": "Proverbs 4:23",
+   "tone": "warn",
+   "words": 15
+  },
+  {
+   "ref": "Ephesians 5:15-16",
+   "tone": "warn",
+   "words": 20
+  },
+  {
+   "ref": "Psalm 90:12",
+   "tone": "warn",
+   "words": 15
+  },
+  {
+   "ref": "Matthew 6:21",
+   "tone": "warn",
+   "words": 11
+  },
+  {
+   "ref": "Romans 12:2",
+   "tone": "warn",
+   "words": 32
+  },
+  {
+   "ref": "Colossians 3:2",
+   "tone": "warn",
+   "words": 12
+  },
+  {
+   "ref": "Proverbs 18:21",
+   "tone": "warn",
+   "words": 20
+  },
+  {
+   "ref": "Matthew 12:36",
+   "tone": "warn",
+   "words": 23
+  },
+  {
+   "ref": "Mark 8:36",
+   "tone": "warn",
+   "words": 19
+  },
+  {
+   "ref": "Luke 12:15",
+   "tone": "warn",
+   "words": 26
+  },
+  {
+   "ref": "Psalm 127:1",
+   "tone": "warn",
+   "words": 25
+  },
+  {
+   "ref": "Galatians 5:22-23",
+   "tone": "warn",
+   "words": 22
+  },
+  {
+   "ref": "1 Timothy 4:12",
+   "tone": "warn",
+   "words": 26
+  },
+  {
+   "ref": "Proverbs 22:6",
+   "tone": "warn",
+   "words": 21
+  },
+  {
+   "ref": "2 Corinthians 9:7",
+   "tone": "warn",
+   "words": 24
+  },
+  {
+   "ref": "Acts 20:35",
+   "tone": "warn",
+   "words": 37
+  },
+  {
+   "ref": "Proverbs 3:9",
+   "tone": "warn",
+   "words": 14
+  },
+  {
+   "ref": "John 15:5",
+   "tone": "warn",
+   "words": 30
+  },
+  {
+   "ref": "Proverbs 9:10",
+   "tone": "warn",
+   "words": 18
+  },
+  {
+   "ref": "Proverbs 1:7",
+   "tone": "warn",
+   "words": 16
+  },
+  {
+   "ref": "1 Thessalonians 5:21",
+   "tone": "warn",
+   "words": 9
+  },
+  {
+   "ref": "Luke 2:11",
+   "tone": "season",
+   "words": 19
+  },
+  {
+   "ref": "Matthew 1:21",
+   "tone": "season",
+   "words": 23
+  },
+  {
+   "ref": "John 1:14",
+   "tone": "season",
+   "words": 30
+  },
+  {
+   "ref": "Isaiah 7:14",
+   "tone": "season",
+   "words": 24
+  },
+  {
+   "ref": "Luke 24:6",
+   "tone": "season",
+   "words": 19
+  },
+  {
+   "ref": "John 6:35",
+   "tone": "season",
+   "words": 28
+  },
+  {
+   "ref": "John 8:12",
+   "tone": "season",
+   "words": 30
+  },
+  {
+   "ref": "1 Thessalonians 5:18",
+   "tone": "season",
+   "words": 17
+  },
+  {
+   "ref": "Psalm 136:1",
+   "tone": "season",
+   "words": 16
+  }
+ ]
+}
