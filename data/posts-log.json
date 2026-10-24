@@ -50,7 +50,7 @@
       "caption": "Paul says in Romans 5:7 that you would hardly find anyone willing to die for a righteous person. Then in verse 8 he says Christ died for us while we were still sinners, not righteous or even good. If you've been waiting until you are good enough to come to God, He never made that a condition.",
       "alt": "Romans 5:8 (KJV): But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us. White text on a sunrise over layered hills.",
       "metricool_uuid": "-2302147874855171199",
-      "status": "scheduled"
+      "status": "published"
     },
     {
       "date": "2026-10-20",
@@ -67,7 +67,7 @@
       "caption": "1 Peter 3:15 takes it for granted that people will ask about the hope we have, and it says to always be ready. That starts in the heart, by setting the Lord apart as holy there first. After that it takes some preparation. If someone asked you today why you have hope, could you answer in a few sentences, and do it gently?",
       "alt": "1 Peter 3:15 (KJV): But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear. Dark text on misty blue mountain ridges under a pale sun.",
       "metricool_uuid": "6322259098405390755",
-      "status": "scheduled"
+      "status": "published"
     },
     {
       "date": "2026-10-21",
@@ -84,7 +84,7 @@
       "caption": "Psalm 119 is the longest chapter in the Bible at 176 verses, and nearly every one of them is about God's Word. Verse 105 says it lights both our feet and our path. Unsure what to do this week? Read a few verses before you decide anything.",
       "alt": "Psalm 119:105 (KJV): Thy word is a lamp unto my feet, and a light unto my path. White text on a lighthouse beam across the sea at dusk.",
       "metricool_uuid": "5836660006275335622",
-      "status": "scheduled"
+      "status": "published"
     },
     {
       "date": "2026-10-22",
@@ -101,7 +101,7 @@
       "caption": "The promise in Proverbs 3:6 is that He will direct our paths, and it comes after two things we're asked to do. We trust with all the heart and we acknowledge Him in all our ways, which covers the small Tuesday decisions as much as the big ones. Verse 7 backs it up. Be not wise in thine own eyes.",
       "alt": "Proverbs 3:5-6 (KJV): Trust in the LORD with all thine heart; and lean not unto thine own understanding. In all thy ways acknowledge him, and he shall direct thy paths. Dark text on pale mountains reflected in a still lake at dawn.",
       "metricool_uuid": "-7230006454334308261",
-      "status": "scheduled"
+      "status": "published"
     },
     {
       "date": "2026-10-23",
@@ -118,7 +118,7 @@
       "caption": "Who gets to skip this verse? Nobody, and Paul says so right before it, in verse 22, when he writes that there is no difference. If you've been grading yourself on a curve, drop it. You have sinned, and the next verse is where the good news begins, that God justifies us freely by His grace through the redemption Christ Jesus paid for.",
       "alt": "Romans 3:23 (KJV): For all have sinned, and come short of the glory of God. White text on golden rays of sunlight breaking through dark storm clouds.",
       "metricool_uuid": "9178900528613834921",
-      "status": "scheduled"
+      "status": "published"
     },
     {
       "date": "2026-10-26",
@@ -170,6 +170,91 @@
       "alt": "Galatians 6:9 (KJV): And let us not be weary in well doing: for in due season we shall reap, if we faint not. White text on a golden sunrise over layered dark hills.",
       "metricool_uuid": "2863499388479098507",
       "status": "scheduled"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "10:00",
+      "timezone": "America/New_York",
+      "ref": "Luke 13:3",
+      "translation": "KJV",
+      "tone": "repent",
+      "kind": "admonishment",
+      "look": "paper-slate",
+      "variant": 0,
+      "image": "posts/2026-10-29-luke-13-3.jpg",
+      "image_url": "https://raw.githubusercontent.com/cvance248/STGN-images/main/posts/2026-10-29-luke-13-3.jpg",
+      "caption": "Jesus says this exact sentence twice in one conversation, in verse 3 and again in verse 5. He was answering news of Galileans whose blood Pilate mingled with their sacrifices, then eighteen killed when the tower in Siloam fell. Neither group was worse than the rest, He says, and you will perish like them unless you repent. Don't compare yourself with someone else's story. Turn today.",
+      "alt": "Luke 13:3 (KJV): I tell you, Nay: but, except ye repent, ye shall all likewise perish. White text on dark slate with a thin gold border.",
+      "metricool_uuid": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-10-30",
+      "time": "10:00",
+      "timezone": "America/New_York",
+      "ref": "Isaiah 26:3",
+      "translation": "KJV",
+      "tone": "trust",
+      "kind": "encouragement",
+      "look": "mist-ridges-sage",
+      "variant": 0,
+      "image": "posts/2026-10-30-isaiah-26-3.jpg",
+      "image_url": "https://raw.githubusercontent.com/cvance248/STGN-images/main/posts/2026-10-30-isaiah-26-3.jpg",
+      "caption": "This verse sits inside a song for the land of Judah, and the next verse says to trust in the LORD for ever. God Himself keeps in perfect peace the one whose mind is stayed on Him, because he trusts Him. Fixing our minds there is a heart decision, and it won't happen by accident. Where did yours land first today?",
+      "alt": "Isaiah 26:3 (KJV): Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee. Dark text on misty green mountain ridges under a pale sun.",
+      "metricool_uuid": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-02",
+      "time": "10:00",
+      "timezone": "America/New_York",
+      "ref": "Luke 6:46",
+      "translation": "KJV",
+      "tone": "obey",
+      "kind": "admonishment",
+      "look": "dunes-noon",
+      "variant": 0,
+      "image": "posts/2026-11-02-luke-6-46.jpg",
+      "image_url": "https://raw.githubusercontent.com/cvance248/STGN-images/main/posts/2026-11-02-luke-6-46.jpg",
+      "caption": "A plain question from Jesus, and it's aimed at people who already call Him Lord. Right after it He describes two builders who both hear His sayings. Only one does them, and when the flood comes the house with no foundation falls and the ruin of it is great. Whatever He has told you that you've been putting off, start on it today.",
+      "alt": "Luke 6:46 (KJV): And why call ye me, Lord, Lord, and do not the things which I say? Dark text on pale sand dunes under a blue sky.",
+      "metricool_uuid": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-03",
+      "time": "10:00",
+      "timezone": "America/New_York",
+      "ref": "Romans 8:1",
+      "translation": "KJV",
+      "tone": "gospel",
+      "kind": "encouragement",
+      "look": "rays-dawn",
+      "variant": 0,
+      "image": "posts/2026-11-03-romans-8-1.jpg",
+      "image_url": "https://raw.githubusercontent.com/cvance248/STGN-images/main/posts/2026-11-03-romans-8-1.jpg",
+      "caption": "Verse 3 explains the first verse. God sent His own Son in the likeness of sinful flesh, and for sin condemned sin in the flesh. The judgment fell on Christ, so there is now no condemnation for those who are in Him. That's not a feeling we have to keep up. If sin is weighing on you today, confess it, turn from it, and rest in what Christ already did.",
+      "alt": "Romans 8:1 (KJV): There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit. White text on pale rays of light breaking through purple clouds at sunrise.",
+      "metricool_uuid": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-04",
+      "time": "10:00",
+      "timezone": "America/New_York",
+      "ref": "Isaiah 40:31",
+      "translation": "KJV",
+      "tone": "courage",
+      "kind": "encouragement",
+      "look": "dawn-hills-rose",
+      "variant": 0,
+      "image": "posts/2026-11-04-isaiah-40-31.jpg",
+      "image_url": "https://raw.githubusercontent.com/cvance248/STGN-images/main/posts/2026-11-04-isaiah-40-31.jpg",
+      "caption": "Verse 30 says even the youths shall faint and be weary, and the young men shall utterly fall, so we can't run on our own strength for long. Verse 31 starts with But. Those who wait upon the LORD renew their strength, which fits verse 29, where He giveth power to the faint.",
+      "alt": "Isaiah 40:31 (KJV): But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint. White text on a pink and peach sunrise over layered blue hills.",
+      "metricool_uuid": null,
+      "status": "pending"
     }
   ]
 }
