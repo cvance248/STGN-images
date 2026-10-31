@@ -135,7 +135,7 @@
       "caption": "Verse 19 sets the other path right beside this one and says it is better to be humble among the lowly than to share the spoils with the proud. Pride feels like strength while it's winning, and the proverb says destruction is already on its way. Think of the last argument you had to win. Let someone else have the last word.",
       "alt": "Proverbs 16:18 (KJV): Pride goeth before destruction, and an haughty spirit before a fall. Dark text on pale linen paper with a thin navy border.",
       "metricool_uuid": "-4861358073500643555",
-      "status": "scheduled"
+      "status": "published"
     },
     {
       "date": "2026-10-27",
@@ -152,7 +152,7 @@
       "caption": "Paul says to be careful for nothing, and he says it right after reminding them that the Lord is at hand. Then he gives us something to do with the worry, and it's to tell God about it with thanksgiving. Verse 7 says the peace of God will guard our hearts and minds through Christ Jesus. Pick the one thing weighing on you most. Tell Him today.",
       "alt": "Philippians 4:6 (KJV): Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God. Dark text on layers of misty green pine trees with soft rays of light.",
       "metricool_uuid": "-1359189951985726383",
-      "status": "scheduled"
+      "status": "published"
     },
     {
       "date": "2026-10-28",
@@ -169,7 +169,7 @@
       "caption": "Paul writes this right after saying that whatever a man sows he will also reap, so the harvest in view comes from what we sow, including the good we do when nobody notices. The word to watch is due. The reaping comes in due season rather than on our schedule, and the only condition given is that we don't quit.",
       "alt": "Galatians 6:9 (KJV): And let us not be weary in well doing: for in due season we shall reap, if we faint not. White text on a golden sunrise over layered dark hills.",
       "metricool_uuid": "2863499388479098507",
-      "status": "scheduled"
+      "status": "published"
     },
     {
       "date": "2026-10-29",
@@ -186,7 +186,7 @@
       "caption": "Jesus says this exact sentence twice in one conversation, in verse 3 and again in verse 5. He was answering news of Galileans whose blood Pilate mingled with their sacrifices, then eighteen killed when the tower in Siloam fell. Neither group was worse than the rest, He says, and you will perish like them unless you repent. Don't compare yourself with someone else's story. Turn today.",
       "alt": "Luke 13:3 (KJV): I tell you, Nay: but, except ye repent, ye shall all likewise perish. White text on dark slate with a thin gold border.",
       "metricool_uuid": "2029596563430393141",
-      "status": "scheduled"
+      "status": "published"
     },
     {
       "date": "2026-10-30",
@@ -203,7 +203,7 @@
       "caption": "This verse sits inside a song for the land of Judah, and the next verse says to trust in the LORD for ever. God Himself keeps in perfect peace the one whose mind is stayed on Him, because he trusts Him. Fixing our minds there is a heart decision, and it won't happen by accident. Where did yours land first today?",
       "alt": "Isaiah 26:3 (KJV): Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee. Dark text on misty green mountain ridges under a pale sun.",
       "metricool_uuid": "7349599915489709135",
-      "status": "scheduled"
+      "status": "published"
     },
     {
       "date": "2026-11-02",
@@ -255,6 +255,91 @@
       "alt": "Isaiah 40:31 (KJV): But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint. White text on a pink and peach sunrise over layered blue hills.",
       "metricool_uuid": "-6160259834344290225",
       "status": "scheduled"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "10:00",
+      "timezone": "America/New_York",
+      "ref": "Joshua 1:9",
+      "translation": "KJV",
+      "tone": "courage",
+      "kind": "encouragement",
+      "look": "night-pines-plum",
+      "variant": 0,
+      "image": "posts/2026-11-05-joshua-1-9.jpg",
+      "image_url": "https://raw.githubusercontent.com/cvance248/STGN-images/main/posts/2026-11-05-joshua-1-9.jpg",
+      "caption": "God tells Joshua to be strong and courageous three times in four verses, and the third time He adds that He Himself goes with him wherever he goes. This was spoken to Joshua before Israel entered the land, but the ground of the courage carries over to us. Rather than working up bravery on our own, we're pointed to the One who is with us.",
+      "alt": "Joshua 1:9 (KJV): Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest. White text on a purple twilight sky with a full moon above a pine forest.",
+      "metricool_uuid": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-06",
+      "time": "10:00",
+      "timezone": "America/New_York",
+      "ref": "Acts 3:19",
+      "translation": "KJV",
+      "tone": "repent",
+      "kind": "admonishment",
+      "look": "watercolor-sunrise",
+      "variant": 0,
+      "image": "posts/2026-11-06-acts-3-19.jpg",
+      "image_url": "https://raw.githubusercontent.com/cvance248/STGN-images/main/posts/2026-11-06-acts-3-19.jpg",
+      "caption": "Peter says this to a crowd that has just seen a man healed, and he reminds them that Christ had to suffer, just as God said through the prophets. Then comes the call. Repent and be converted so that your sins may be blotted out. If you've been putting off turning from sin, stop today and trust the Christ who suffered for sinners.",
+      "alt": "Acts 3:19 (KJV): Repent ye therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the Lord. Dark text on soft coral, gold and pink watercolor washes on cream paper.",
+      "metricool_uuid": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-09",
+      "time": "10:00",
+      "timezone": "America/New_York",
+      "ref": "Matthew 11:28",
+      "translation": "KJV",
+      "tone": "comfort",
+      "kind": "encouragement",
+      "look": "mist-ridges-rose",
+      "variant": 0,
+      "image": "posts/2026-11-09-matthew-11-28.jpg",
+      "image_url": "https://raw.githubusercontent.com/cvance248/STGN-images/main/posts/2026-11-09-matthew-11-28.jpg",
+      "caption": "Who is invited here? Everyone who labours and is heavy laden. Jesus says He will give rest, so we do not earn it. The next two verses add that His yoke is easy and His burden is light, and that He is meek and lowly in heart. Bring Him what you've been carrying.",
+      "alt": "Matthew 11:28 (KJV): Come unto me, all ye that labour and are heavy laden, and I will give you rest. Dark text on misty pink and purple mountain ridges under a pale sun.",
+      "metricool_uuid": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-10",
+      "time": "10:00",
+      "timezone": "America/New_York",
+      "ref": "James 4:6",
+      "translation": "KJV",
+      "tone": "humble",
+      "kind": "admonishment",
+      "look": "lake-twilight",
+      "variant": 0,
+      "image": "posts/2026-11-10-james-4-6.jpg",
+      "image_url": "https://raw.githubusercontent.com/cvance248/STGN-images/main/posts/2026-11-10-james-4-6.jpg",
+      "caption": "The verse sets two kinds of people side by side, the proud and the humble, and God answers them in opposite ways. He resists one and gives grace to the other. James follows with a command in the next verse, which is to submit to God. That's where humility starts. Where are you still arguing with Him?",
+      "alt": "James 4:6 (KJV): But he giveth more grace. Wherefore he saith, God resisteth the proud, but giveth grace unto the humble. White text on dark mountains reflected in a still lake at twilight.",
+      "metricool_uuid": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-11",
+      "time": "10:00",
+      "timezone": "America/New_York",
+      "ref": "1 Corinthians 15:58",
+      "translation": "KJV",
+      "tone": "persevere",
+      "kind": "encouragement",
+      "look": "dunes-sunset",
+      "variant": 0,
+      "image": "posts/2026-11-11-1-corinthians-15-58.jpg",
+      "image_url": "https://raw.githubusercontent.com/cvance248/STGN-images/main/posts/2026-11-11-1-corinthians-15-58.jpg",
+      "caption": "Look at the first word. Therefore points back to verses 55 to 57, where Paul says the sting of death is sin and that God gives us victory through Christ. Our work is steady because the outcome is settled, and labour done in the Lord isn't wasted. Keep at the thing He has put in front of you.",
+      "alt": "1 Corinthians 15:58 (KJV): Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord. White text on a desert sunset over layered sand dunes.",
+      "metricool_uuid": null,
+      "status": "pending"
     }
   ]
 }
