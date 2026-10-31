@@ -18,3 +18,10 @@ One short entry per run of the weekly Instagram task, newest last.
 - checks: all captions passed on the 2nd run (two got small rewrites for contractions/short sentences); none skipped.
 - Metricool: 5 created and verified (date, text, media, Instagram only, not draft). add_repo tool not available; repo already in scope.
 - repo: b46ba79 (posts), plus status commit.
+
+## 2026-10-31 04:32 ET | OK | schedule
+- Planned 2026-11-05, 06, 09, 10, 11. Verses: Josh 1:9, Acts 3:19, Matt 11:28, Jas 4:6, 1 Cor 15:58. Looks: night-pines-plum, watercolor-sunrise, mist-ridges-rose, lake-twilight, dunes-sunset.
+- Log fix: Oct 26-30 posts marked published (Metricool shows them published).
+- checks: captions needed 1 rewrite pass (tidy two-beat warning, missing contractions); none skipped.
+- Metricool: 5 created and verified (date, text, media, Instagram only, not draft). add_repo tool not available; repo already in scope.
+- repo: 2e86cc8 (posts), plus status commit.
