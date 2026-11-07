@@ -25,3 +25,10 @@ One short entry per run of the weekly Instagram task, newest last.
 - checks: captions needed 1 rewrite pass (tidy two-beat warning, missing contractions); none skipped.
 - Metricool: 5 created and verified (date, text, media, Instagram only, not draft). add_repo tool not available; repo already in scope.
 - repo: 2e86cc8 (posts), plus status commit.
+
+## 2026-11-07 04:31 ET | OK | schedule
+- Planned 2026-11-12, 13, 16, 17, 18. Verses: Eph 2:8-9, Phil 2:3, Nahum 1:7, Matt 6:33, Ps 34:18. Looks: watercolor-ocean, boho-terracotta, sea-lighthouse-storm, forest-fog-emerald, night-pines-aurora.
+- Log fix: Nov 2-6 posts marked published (Metricool shows them published).
+- checks: captions needed 2 rewrite passes for length (4 of 5 were 71-73 words at first); none skipped.
+- Metricool: 5 created and verified (date, text, media, Instagram only, not draft). add_repo tool not available; repo already in scope.
+- repo: dbc3255 (posts), plus status commit.
