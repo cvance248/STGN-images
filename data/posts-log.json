@@ -220,7 +220,7 @@
       "caption": "A plain question from Jesus, and it's aimed at people who already call Him Lord. Right after it He describes two builders who both hear His sayings. Only one does them, and when the flood comes the house with no foundation falls and the ruin of it is great. Whatever He has told you that you've been putting off, start on it today.",
       "alt": "Luke 6:46 (KJV): And why call ye me, Lord, Lord, and do not the things which I say? Dark text on pale sand dunes under a blue sky.",
       "metricool_uuid": "-3467206149893042738",
-      "status": "scheduled"
+      "status": "published"
     },
     {
       "date": "2026-11-03",
@@ -237,7 +237,7 @@
       "caption": "Verse 3 explains the first verse. God sent His own Son in the likeness of sinful flesh, and for sin condemned sin in the flesh. The judgment fell on Christ, so there is now no condemnation for those who are in Him. That's not a feeling we have to keep up. If sin is weighing on you today, confess it, turn from it, and rest in what Christ already did.",
       "alt": "Romans 8:1 (KJV): There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit. White text on pale rays of light breaking through purple clouds at sunrise.",
       "metricool_uuid": "-8114793546022171999",
-      "status": "scheduled"
+      "status": "published"
     },
     {
       "date": "2026-11-04",
@@ -254,7 +254,7 @@
       "caption": "Verse 30 says even the youths shall faint and be weary, and the young men shall utterly fall, so we can't run on our own strength for long. Verse 31 starts with But. Those who wait upon the LORD renew their strength, which fits verse 29, where He giveth power to the faint.",
       "alt": "Isaiah 40:31 (KJV): But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint. White text on a pink and peach sunrise over layered blue hills.",
       "metricool_uuid": "-6160259834344290225",
-      "status": "scheduled"
+      "status": "published"
     },
     {
       "date": "2026-11-05",
@@ -271,7 +271,7 @@
       "caption": "God tells Joshua to be strong and courageous three times in four verses, and the third time He adds that He Himself goes with him wherever he goes. This was spoken to Joshua before Israel entered the land, but the ground of the courage carries over to us. Rather than working up bravery on our own, we're pointed to the One who is with us.",
       "alt": "Joshua 1:9 (KJV): Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest. White text on a purple twilight sky with a full moon above a pine forest.",
       "metricool_uuid": "-571461038847146643",
-      "status": "scheduled"
+      "status": "published"
     },
     {
       "date": "2026-11-06",
@@ -288,7 +288,7 @@
       "caption": "Peter says this to a crowd that has just seen a man healed, and he reminds them that Christ had to suffer, just as God said through the prophets. Then comes the call. Repent and be converted so that your sins may be blotted out. If you've been putting off turning from sin, stop today and trust the Christ who suffered for sinners.",
       "alt": "Acts 3:19 (KJV): Repent ye therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the Lord. Dark text on soft coral, gold and pink watercolor washes on cream paper.",
       "metricool_uuid": "-6647954938510424126",
-      "status": "scheduled"
+      "status": "published"
     },
     {
       "date": "2026-11-09",
@@ -340,6 +340,91 @@
       "alt": "1 Corinthians 15:58 (KJV): Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord. White text on a desert sunset over layered sand dunes.",
       "metricool_uuid": "4879190401713851980",
       "status": "scheduled"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "10:00",
+      "timezone": "America/New_York",
+      "ref": "Ephesians 2:8-9",
+      "translation": "KJV",
+      "tone": "gospel",
+      "kind": "encouragement",
+      "look": "watercolor-ocean",
+      "variant": 0,
+      "image": "posts/2026-11-12-ephesians-2-8-9.jpg",
+      "image_url": "https://raw.githubusercontent.com/cvance248/STGN-images/main/posts/2026-11-12-ephesians-2-8-9.jpg",
+      "caption": "Grace is the source, faith is how we receive it, and verse 9 says why nobody gets to boast. It's the gift of God and not of works. Paul writes this to people who were dead in sins, according to verse 5, so there was nothing they could add. Verse 10 says good works come after, since we are His workmanship. Rest in what He gave.",
+      "alt": "Ephesians 2:8-9 (KJV): For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast. Dark text on soft blue and teal watercolor washes on cream paper.",
+      "metricool_uuid": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-13",
+      "time": "10:00",
+      "timezone": "America/New_York",
+      "ref": "Philippians 2:3",
+      "translation": "KJV",
+      "tone": "humble",
+      "kind": "admonishment",
+      "look": "boho-terracotta",
+      "variant": 0,
+      "image": "posts/2026-11-13-philippians-2-3.jpg",
+      "image_url": "https://raw.githubusercontent.com/cvance248/STGN-images/main/posts/2026-11-13-philippians-2-3.jpg",
+      "caption": "Paul asks the Philippians to esteem others better than themselves, and verse 4 gets practical by telling each of us to look on the things of others too. Verse 5 points to the mind of Christ, who was in the form of God. So pick one person you're tempted to compete with this week. Ask what they need, and meet it first.",
+      "alt": "Philippians 2:3 (KJV): Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves. Dark text on warm terracotta and gold arches on cream.",
+      "metricool_uuid": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-16",
+      "time": "10:00",
+      "timezone": "America/New_York",
+      "ref": "Nahum 1:7",
+      "translation": "KJV",
+      "tone": "trust",
+      "kind": "encouragement",
+      "look": "sea-lighthouse-storm",
+      "variant": 0,
+      "image": "posts/2026-11-16-nahum-1-7.jpg",
+      "image_url": "https://raw.githubusercontent.com/cvance248/STGN-images/main/posts/2026-11-16-nahum-1-7.jpg",
+      "caption": "Nahum is speaking about judgment on Nineveh, and just before this verse he says the mountains quake and the hills melt before the LORD. Then verse 7 says the same God is a place of safety in the day of trouble, and that He knows those who trust Him. Run to the One who's that strong.",
+      "alt": "Nahum 1:7 (KJV): The LORD is good, a strong hold in the day of trouble; and he knoweth them that trust in him. White text on a lighthouse on a rocky shore under a stormy sky with golden light on the horizon.",
+      "metricool_uuid": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-17",
+      "time": "10:00",
+      "timezone": "America/New_York",
+      "ref": "Matthew 6:33",
+      "translation": "KJV",
+      "tone": "obey",
+      "kind": "admonishment",
+      "look": "forest-fog-emerald",
+      "variant": 0,
+      "image": "posts/2026-11-17-matthew-6-33.jpg",
+      "image_url": "https://raw.githubusercontent.com/cvance248/STGN-images/main/posts/2026-11-17-matthew-6-33.jpg",
+      "caption": "What gets your first effort each day? Jesus answers in the middle of a talk about worry over daily needs like food and clothing, where He says our heavenly Father already knows we need all these things. That's the setting for seeking His kingdom first. The promise covers the needs He just named, and the Father who knows them supplies them. Look at what got your first hour today.",
+      "alt": "Matthew 6:33 (KJV): But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you. White text on deep green pine forest in fog with pale rays of light.",
+      "metricool_uuid": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-18",
+      "time": "10:00",
+      "timezone": "America/New_York",
+      "ref": "Psalm 34:18",
+      "translation": "KJV",
+      "tone": "comfort",
+      "kind": "encouragement",
+      "look": "night-pines-aurora",
+      "variant": 0,
+      "image": "posts/2026-11-18-psalm-34-18.jpg",
+      "image_url": "https://raw.githubusercontent.com/cvance248/STGN-images/main/posts/2026-11-18-psalm-34-18.jpg",
+      "caption": "Two words to hold here are nigh and contrite. Nigh means near, and the LORD puts Himself near the brokenhearted. A contrite spirit is one that's broken and humbled before Him, and this verse says He saves such a person. Verse 19 admits that many are the afflictions of the righteous, then adds that God delivers him out of them all. Go to Him first today.",
+      "alt": "Psalm 34:18 (KJV): The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit. White text on a green northern lights sky over a dark pine forest.",
+      "metricool_uuid": null,
+      "status": "pending"
     }
   ]
 }
