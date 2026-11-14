@@ -32,3 +32,10 @@ One short entry per run of the weekly Instagram task, newest last.
 - checks: captions needed 2 rewrite passes for length (4 of 5 were 71-73 words at first); none skipped.
 - Metricool: 5 created and verified (date, text, media, Instagram only, not draft). add_repo tool not available; repo already in scope.
 - repo: dbc3255 (posts), plus status commit.
+
+## 2026-11-14 04:32 ET | OK | schedule
+- Planned 2026-11-19, 20, 23, 24, 25. Verses: Rom 6:23, Luke 11:28, Ps 100:4, Deut 31:6, 1 Thess 5:18. Looks: nebula-violet, paper-parchment, boho-navy, night-pines-midnight, watercolor-meadow.
+- Log fix: Nov 9-13 posts marked published (Metricool shows them published). Looks rays-storm-gold and dawn-hills-golden were swapped (reuse rule).
+- checks: captions needed 2 rewrite passes (warnings on blessed words, no short sentence, contractions, repeated opening, 8-word copy); none skipped.
+- Metricool: 5 created and verified (date, text, media, Instagram only, not draft). add_repo tool not available; repo already in scope.
+- repo: 36bcfc8 (posts), plus status commit.
