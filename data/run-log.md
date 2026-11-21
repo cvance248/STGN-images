@@ -39,3 +39,10 @@ One short entry per run of the weekly Instagram task, newest last.
 - checks: captions needed 2 rewrite passes (warnings on blessed words, no short sentence, contractions, repeated opening, 8-word copy); none skipped.
 - Metricool: 5 created and verified (date, text, media, Instagram only, not draft). add_repo tool not available; repo already in scope.
 - repo: 36bcfc8 (posts), plus status commit.
+
+## 2026-11-21 04:31 ET | OK | schedule
+- Planned 2026-11-26, 27, 12-01, 02, 03 (11-30 skipped: November monthly cap of 20). Verses: Ps 107:1, Jas 1:19, Isa 7:14, Mark 1:15, Rom 15:13. Looks: dawn-hills-violet, paper-linen, sea-lighthouse-night, rays-storm-gold, lake-dawn.
+- Log fix: Nov 16-20 posts marked published (Metricool no longer lists them as scheduled).
+- checks: captions needed 2 rewrite passes (AI-phrase fails, 9-word verse copy, contractions); James 1:19 still warns on no long/short sentence (accepted).
+- Metricool: 5 created and verified (date, text, media, Instagram only, not draft). add_repo tool not available; repo already in scope.
+- repo: 1f0d9b8 (posts), plus status commit.
