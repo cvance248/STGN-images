@@ -46,3 +46,10 @@ One short entry per run of the weekly Instagram task, newest last.
 - checks: captions needed 2 rewrite passes (AI-phrase fails, 9-word verse copy, contractions); James 1:19 still warns on no long/short sentence (accepted).
 - Metricool: 5 created and verified (date, text, media, Instagram only, not draft). add_repo tool not available; repo already in scope.
 - repo: 1f0d9b8 (posts), plus status commit.
+
+## 2026-11-28 04:32 ET | OK | schedule
+- Planned 2026-12-04, 07, 08, 09, 10. Verses: Luke 2:11, 1 Pet 5:6, Ps 46:1, John 14:15, John 3:16. Looks: nebula-teal, paper-slate, forest-fog-green, dunes-noon, rays-dawn.
+- Log fix: Nov 23-27 posts marked published (Metricool shows them published).
+- checks: Luke 2:11 look swapped once (night-pines-plum reuse rule); captions needed 1 rewrite pass (contraction and "lean on" warnings); none skipped.
+- Metricool: 5 created and verified (date, text, media, Instagram only, not draft). add_repo tool not available; repo already in scope. December holds 8 posts of 20 cap.
+- repo: 2b22ceb (posts), plus status commit.
